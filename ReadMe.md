@@ -9,6 +9,7 @@ most expensive boats that get the most views? Are there common features among th
 
 **Topic Covered:** Data cleaning, Exploratory Data Analysis, Data visualization
 
+
 ### **2. Hackathon - Railway Train Prediction**
 This problem statement is based on the Shinkansen Bullet Train in Japan, and passengers’ experience with that mode of travel.
 
@@ -17,6 +18,7 @@ You are provided test data containing the travel data and the survey data of pas
 Both the test data and the train data are collected at the same time and belong to the same population.
 
 **Topic Covered:** Data Cleaning, Classification, CNN Network, Exploratory Data Analysis, Data visualization
+
 
 ### **3. Home Loan Default Prediction**
 This project build decision tree, logistic regression, and random forest models to predict risky clients and recommends features to consider when approving a loan.
@@ -28,6 +30,7 @@ Three questions will be answered:
 
 **Topic Covered:** Data cleaning, Exploratory Data Analysis, Machine Learning, Data visualization
 
+
 ### **4. Geodata Project**
 Using the Google Places API with a Database and Visualizing Data on Google Map.
 
@@ -36,16 +39,19 @@ locations of university names and then placing the data on a Google Map.
 
 **Topic Covered:** Python Coding, SQL Query, API, Geodata, Google Map
 
+
 ### **5. Plotly Dash Projects**
 Plotly_Basics -> creating plotly charts using plotly.graph_objects and plotly.express
 Flight_Dashboard.py -> Create a Yearly Airline Performance Report Dashboard that takes airline data as input and create ploty charts and graphs.
 
 **Topic Covered:** Plotly Dash, Data cleaning, Data visualization
 
+
 ### **6. Data_Analysis_Final_Assignment**
 Using Webscrapping and Yahoo Finance API to extract Tesla and Gamestop stock data, and then display this data in grapsh.
 
 **Topic Covered:** Webscrapping, API, Data cleaning, Data visualization, Exploratory Data Analysis
+
 
 ### **7.R_Project Stock Analysis**
 This research use the daily Apple and its supplers’ stock prices from 2008 to 2018 (Where Apple stock starts to skyrocket)
@@ -57,10 +63,12 @@ This research use the daily Apple and its supplers’ stock prices from 2008 to 
 
 **Topic Covered:** R-programming, Regression, Data cleaning, Data visualization, Exploratory Data Analysis
 
+
 ### **8.House_Sales_in_King_Count**
 This research use linear regression and penalized regression like ridge to predict House Sales in King County
 
 **Topic Covered:** Regression, Data cleaning, Data visualization, Exploratory Data Analysis
+
 
 ### **9.Machine_Learning_FinalModule**
 Practice Logistic Regression, K-Nearest-Neighbor, Decision Tree, Support Vector Machine on home-loan default prediction.
