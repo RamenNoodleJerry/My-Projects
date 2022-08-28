@@ -42,6 +42,7 @@ locations of university names and then placing the data on a Google Map.
 
 ### **5. Plotly Dash Projects**
 Plotly_Basics -> creating plotly charts using plotly.graph_objects and plotly.express
+
 Flight_Dashboard.py -> Create a Yearly Airline Performance Report Dashboard that takes airline data as input and create ploty charts and graphs.
 
 **Topic Covered:** Plotly Dash, Data cleaning, Data visualization
