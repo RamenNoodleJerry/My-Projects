@@ -75,6 +75,10 @@ This research use linear regression and penalized regression like ridge to predi
 Practice Logistic Regression, K-Nearest-Neighbor, Decision Tree, Support Vector Machine on home-loan default prediction.
 
 Use evaluation matrix like Jaccard, F1-score, LogLoss to evaluate the model data
+**Topic Covered:** Model Evaluation, KNN, Decision Tree, Regression, SVM
 
 
+### **10.Currency Converter**
+A well-designed currency converter I made using Excel VBA.
 
+**Topic Covered:** Excel VBA
