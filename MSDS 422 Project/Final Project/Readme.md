@@ -1,3 +1,5 @@
+## Dataset: https://www.kaggle.com/competitions/playground-series-s4e1/data
+
 ## **Executive Summary**
 Customer data can be used to identify whether someone has exited, whether that means something like unsubscribing or moving to a different service. 
 By using the Bank Customer Churn dataset we tuned four classification models to obtain the most accurate results when predicting customer “Exited” categories. 
