@@ -7,9 +7,9 @@ Initial EDA revealed that 11 features were quantitative and 3 were qualitative. 
 Plotting the correlations of the quantitative data revealed that balance and age had the strongest correlation to whether or not a customer exited whereas number of products and if the customer was active showed the least correlation.
 
 ## **To Do:**
-Explain any other EDA we complete <br />
-Explain encoding if we do it for qualitative data <br />
-Feature engineering <br />
-List the models we use (can’t be done for the midpoint) <br />
-Explain the results (can’t be done for the midpoint) <br />
-Conclusion- what do we recommend (can’t be done for the midpoint) <br />
+* Explain any other EDA we complete <br />
+* Explain encoding if we do it for qualitative data <br />
+* Feature engineering <br />
+* List the models we use (can’t be done for the midpoint) <br />
+* Explain the results (can’t be done for the midpoint) <br />
+* Conclusion- what do we recommend (can’t be done for the midpoint) <br />
