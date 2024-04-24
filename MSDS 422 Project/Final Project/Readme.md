@@ -1,3 +1,5 @@
+## **MSDS 422 Final Project - Customer Churning Prediction**
+
 **Dataset:** https://www.kaggle.com/competitions/playground-series-s4e1/data
 
 ## **Executive Summary**
