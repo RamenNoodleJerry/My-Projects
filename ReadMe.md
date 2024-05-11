@@ -83,6 +83,3 @@ Use evaluation matrix like Jaccard, F1-score, LogLoss to evaluate the model data
 A well-designed currency converter I made using Excel VBA.
 
 **Topic Covered:** Excel VBA
-
-
-### **11.MSDS422 Practical Machine Learning Project**
